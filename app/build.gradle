@@ -97,6 +97,7 @@ android {
         }
     }
 
+
     //打包后自动修改apk的名字
     //
     applicationVariants.all { variant ->
